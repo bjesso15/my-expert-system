@@ -1,0 +1,10 @@
+{
+    "intro" : "I am the Sport ID system.",
+    "q1" : "What color is the ball?",
+    "q2" : "Do you play it outside?",
+    "conclusion" : "It looks like you are thinking of",
+    "not_found" : "I do not recognize that sport. Please tell me what it is.",
+    "repeat" : "Do you want to go again?",
+    "farewell" : "Goodbye.",
+    "contribution" : "Thank you for the contribution."
+}
